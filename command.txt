@@ -1,0 +1,4 @@
+command: node examples/weather/server.js 
+
+
+url tuto: https://github.com/saymedia/angularjs-server
