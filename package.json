@@ -18,7 +18,7 @@
     "dependencies": {
         "angularcontext": "0.0.23",
         "escape-html": "1.0.0",
-        "express": "~3.4.4",
+        "express": "~3.21.2",
         "local-xmlhttprequest": "^1.5.1"
     },
     "devDependencies": {
